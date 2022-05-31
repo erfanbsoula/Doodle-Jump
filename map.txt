@@ -1,0 +1,12 @@
+11
+300 100 platform
+150 300 platform
+50 360 bplatform
+400 500 enemy
+100 650 platform
+50 800 platform
+80 836 spring
+250 950 mplatform
+300 1100 platform
+150 1250 platform
+50 1340 bplatform
